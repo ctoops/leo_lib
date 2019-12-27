@@ -10,7 +10,7 @@ class Excel:
 
         :param row: 行号
         :param col: 列号
-        :param sheet_name: sheet的名字，不传入，则使用 self.excelst
+        :param sheet_name: sheet的名字
         :param return_range: 是否返回单元格的范围
         :return:
         """
